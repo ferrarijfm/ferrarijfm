@@ -18,7 +18,13 @@
 ---
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" />
-  <img src="https://skillicons.dev/icons?i=python,django,js,html,css" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker"/>
 </div>
 
 ---
@@ -28,7 +34,4 @@
 </div>
 <div>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferrarijfm&layout=compact&theme=dark&hide_border=false"/>
-</div>
-<div>
-  <img src="https://streak-stats.demolab.com?user=ferrarijfm&theme=dark&hide_border=false" />
 </div>
